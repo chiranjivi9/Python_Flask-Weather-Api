@@ -9,7 +9,8 @@
 
 
 # Mac OS - install all the libraries used
-
+```
 -> pipenv shell - Creates a virtual environment.
 -> pipenv install - Installs all the libraries used.
 -> flask run - Command used to run.
+```
